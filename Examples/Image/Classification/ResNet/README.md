@@ -54,7 +54,7 @@ Models pre-trained with CNTK scripts.
 |CNTK model download path | https://www.cntk.ai/Models/CNTK_Pretrained/ResNet110_CIFAR10_Python.model
 |:-------|:---
 |Training script | [TrainResNet_CIFAR10.py -n resnet110](./Python/TrainResNet_CIFAR10.py)
-|Single crop top 1 error | 6.35%
+|Single crop top 1 error | 6.08%
 
 ### Caffe-Converted
 Models converted from Caffe model zoo.
